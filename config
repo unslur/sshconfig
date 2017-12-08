@@ -1,0 +1,12 @@
+Host gserver
+User ubuntu
+HostName 35.194.157.71
+IdentityFile /home/unslur/tools/xps13.pem
+Host cry
+User root
+HostName 120.24.18.177
+IdentityFile /home/unslur/tools/xps13.pem
+Host pi
+User pi
+HostName s1.natapp.cc
+Port 28788
